@@ -1,0 +1,36 @@
+name: Tagesinhalt abrufen
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 22:05 und 01:05 UTC, also kurz nach Mitternacht in der Tuerkei und als Reserve
+    - cron: "5 22 * * *"
+    - cron: "5 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Diyanet-Tagesinhalt abrufen
+        env:
+          DIYANET_EMAIL: ${{ secrets.DIYANET_EMAIL }}
+          DIYANET_PASSWORD: ${{ secrets.DIYANET_PASSWORD }}
+        run: python tools/daily_content.py
+      - name: Speichern
+        run: |
+          git config user.name "namaz-vakti-bot"
+          git config user.email "namaz-vakti-bot@users.noreply.github.com"
+          git add -A daily.json archive
+          git diff --cached --quiet || (git commit -m "Tagesinhalt $(date -u '+%d.%m.%Y')" && git push)
