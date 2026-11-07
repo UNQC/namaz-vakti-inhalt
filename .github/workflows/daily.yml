@@ -27,6 +27,7 @@ jobs:
         env:
           DIYANET_EMAIL: ${{ secrets.DIYANET_EMAIL }}
           DIYANET_PASSWORD: ${{ secrets.DIYANET_PASSWORD }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python tools/daily_content.py
       - name: Speichern
         run: |
