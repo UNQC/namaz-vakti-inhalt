@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-08",
+ "dayOfYear": 312,
+ "verse": "“Onlar, inananlar ve kalpleri Allah’ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah’ı anmakla huzur bulur.” ",
+ "verseSource": "(Ra’d, 13/28)",
+ "hadith": "“İki günü eşit olan zarardadır” ",
+ "hadithSource": "(el-Hatîb el-Bağdâdî, İktidâu’l-İlmi’l-Amele, No:122)",
+ "pray": "\"Sabahın aydınlığını var eden, geceyi dinlenme vakti yapan, güneşi ve ayı hesap vasıtası yapan Allah’ım! \nBana borçlarımı ödemeyi ihsan eyle, benden fakirliği gider, kulağımı, gözümü ve kuvvetimi Senin yolunda kullanmayı nasip eyle.\"",
+ "praySource": "(Malik, \"Dua\", No: 495)",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "(Es sind) diejenigen, die glauben und deren Herzen im Gedenken Allahs Ruhe finden. Sicherlich, im Gedenken Allahs finden die Herzen Ruhe!",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "Those who believe (in the Oneness of Allah - Islamic Monotheism), and whose hearts find rest in the remembrance of Allah, Verily, in the remembrance of Allah do hearts find rest.",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
