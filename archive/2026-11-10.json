@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-10",
+ "dayOfYear": 314,
+ "verse": "“Güzel bir söz ve bağışlama, peşinden gönül kırma gelen bir sadakadan daha hayırlıdır. Allah, her bakımdan sınırsız zengindir, halîmdir (hemen cezalandırmaz, mühlet verir).” ",
+ "verseSource": "(Bakara, 2/263)",
+ "hadith": "\"Dua, ibadetin özüdür.\"",
+ "hadithSource": "(Tirmizî, \"De'avât, 1)",
+ "pray": "\"Allah’ım! Senden Seni sevmeyi, Seni sevenleri sevmeyi ve Senin sevgine ulaştıran ameli yapmayı isterim…\"",
+ "praySource": "(Tirmizî, \"De’avât\", 73)",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Freundliche Worte und Vergebung sind besser als ein Almosen, dem Beleidigungen nachfolgen. Allah ist Unbedürftig und Nachsichtig.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "Kind words and forgiving of faults are better than Sadaqah (charity) followed by injury. And Allah is Rich (Free of all wants) and He is Most-Forbearing.",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "۞ قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
