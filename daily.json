@@ -1,24 +1,24 @@
 {
- "date": "2026-11-10",
- "dayOfYear": 314,
- "verse": "“Güzel bir söz ve bağışlama, peşinden gönül kırma gelen bir sadakadan daha hayırlıdır. Allah, her bakımdan sınırsız zengindir, halîmdir (hemen cezalandırmaz, mühlet verir).” ",
- "verseSource": "(Bakara, 2/263)",
- "hadith": "\"Dua, ibadetin özüdür.\"",
- "hadithSource": "(Tirmizî, \"De'avât, 1)",
- "pray": "\"Allah’ım! Senden Seni sevmeyi, Seni sevenleri sevmeyi ve Senin sevgine ulaştıran ameli yapmayı isterim…\"",
- "praySource": "(Tirmizî, \"De’avât\", 73)",
+ "date": "2026-11-11",
+ "dayOfYear": 315,
+ "verse": "\"Ölçüde haddi aşmayın. Tartıyı adaletle yapın, teraziyi eksik tutmayın. \"",
+ "verseSource": "(Rahman, 55/8-9)",
+ "hadith": "“İman etmedikçe cennete giremezsiniz. Birbirinizi sevmedikçe de gerçek manada iman etmiş olamazsınız.” ",
+ "hadithSource": "(Müslim, “Îmân”, 93; Tirmizî, “Sıfâtu’l-Kıyâme”, 56) ",
+ "pray": "\"Sen bizleri Peygamber Efendimize lâyık ümmet eyle, yolunda ve sünnetinde daim ve kaim eyle. O’nun ahlâkıyla ahlakımızı tezyin eyle, sevgisine lâyık eyle Allah’ım!\"",
+ "praySource": "",
  "source": "T.C. Diyanet İşleri Başkanlığı",
  "translations": {
   "de": {
-   "verse": "Freundliche Worte und Vergebung sind besser als ein Almosen, dem Beleidigungen nachfolgen. Allah ist Unbedürftig und Nachsichtig.",
+   "verse": "damit ihr beim Wägen nicht das Maß überschreitet. Und meßt das Gewicht in Gerechtigkeit und gebt beim Wägen nicht weniger.",
    "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
   },
   "en": {
-   "verse": "Kind words and forgiving of faults are better than Sadaqah (charity) followed by injury. And Allah is Rich (Free of all wants) and He is Most-Forbearing.",
+   "verse": "In order that you may not transgress (due) balance. And observe the weight with equity and do not make the balance deficient.",
    "verseCredit": "Hilali & Khan, King Fahd Complex"
   },
   "ar": {
-   "verse": "۞ قَوْلٌۭ مَّعْرُوفٌۭ وَمَغْفِرَةٌ خَيْرٌۭ مِّن صَدَقَةٍۢ يَتْبَعُهَآ أَذًۭى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌۭ",
+   "verse": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
    "verseCredit": "Mushaf (Uthmani)"
   }
  }
