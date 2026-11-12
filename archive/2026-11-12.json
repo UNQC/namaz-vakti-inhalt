@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-12",
+ "dayOfYear": 316,
+ "verse": "\"Kıyametin kopacağı gün, işte o gün mü'minler ve kâfirler birbirinden ayrılacaklardır.\"",
+ "verseSource": "(Rûm, 30/14)",
+ "hadith": "“İnsanoğlunun bir vadi dolusu altını olsa bir ikincisini ister; onun (bu ihtirasını) ancak toprak (ölüm) doyurur. Allah, tövbe edenin tövbesini kabul eder”",
+ "hadithSource": "(Müslim, “Zekât”, 117)",
+ "pray": "\"Senin adını anarak ölür ve dirilirim (uyur ve uyanırım) Allahım!\"",
+ "praySource": "(Buhârî, \"De'avât\", 7)",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Am Tag, da sich die Stunde erhebt, an jenem Tag werden sie sich in (Gruppen) teilen.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "And on the Day when the Hour will be established, that Day shall (all men) be separated (i.e. the believers will be separated from the disbelievers).",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
