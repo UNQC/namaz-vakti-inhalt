@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-18",
+ "dayOfYear": 322,
+ "verse": "“Bu Kur’an, âyetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye sana indirdiğimiz mübarek bir kitaptır.” ",
+ "verseSource": "(Sâd, 38/29)",
+ "hadith": "“Kim Allah için hacceder, çirkin söz ve günahlardan sakınırsa, annesinden doğduğu gün gibi günahlarından arınmış olarak döner.”",
+ "hadithSource": "(Buhârî, \"Hac\", 4)",
+ "pray": "\"Ya Rab! Bizlere hayırlı işler, helâl ve bereketli kazançlar nasip eyle!",
+ "praySource": "",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "(Dies ist) ein gesegnetes Buch, das Wir zu dir hinabgesandt haben, damit sie über seine Zeichen nachsinnen und damit diejenigen bedenken, die Verstand besitzen.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "(This is) a Book (the Quran) which We have sent down to you, full of blessings that they may ponder over its Verses, and that men of understanding may remember.",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌۭ لِّيَدَّبَّرُوٓا۟ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
