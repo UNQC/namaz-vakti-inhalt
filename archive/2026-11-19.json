@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-19",
+ "dayOfYear": 323,
+ "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.” ",
+ "verseSource": "(Sâd, 38/67-68)",
+ "hadith": "“Kim içtenlikle Allah’tan şehit olmayı dilerse yatağı üzerinde bile ölse Allah onu şehitlerin makamlarına ulaştırır.”",
+ "hadithSource": "(Müslim, \"İmâre\", 157)",
+ "pray": "\"Yâ Rabbe’l-Âlemin! Dünyanın her neresinde olursa olsun ezilen, üzülen, horlanan,  işkence gören; açlık, \nkıtlık ve sefalet çeken mazlumlara, biçarelere imdat eyle, himmetini, yardımını üzerlerinden esirgeme!\"",
+ "praySource": "",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Sag: Es ist eine gewaltige Kunde, von der ihr euch abwendet.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "Say: \"That (this Quran) is a great news, \"From which you turn away!",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ أَنتُمْ عَنْهُ مُعْرِضُونَ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}

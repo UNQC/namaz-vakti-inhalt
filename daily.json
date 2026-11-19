@@ -1,24 +1,24 @@
 {
- "date": "2026-11-18",
- "dayOfYear": 322,
- "verse": "“Bu Kur’an, âyetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye sana indirdiğimiz mübarek bir kitaptır.” ",
- "verseSource": "(Sâd, 38/29)",
- "hadith": "“Kim Allah için hacceder, çirkin söz ve günahlardan sakınırsa, annesinden doğduğu gün gibi günahlarından arınmış olarak döner.”",
- "hadithSource": "(Buhârî, \"Hac\", 4)",
- "pray": "\"Ya Rab! Bizlere hayırlı işler, helâl ve bereketli kazançlar nasip eyle!",
+ "date": "2026-11-19",
+ "dayOfYear": 323,
+ "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.” ",
+ "verseSource": "(Sâd, 38/67-68)",
+ "hadith": "“Kim içtenlikle Allah’tan şehit olmayı dilerse yatağı üzerinde bile ölse Allah onu şehitlerin makamlarına ulaştırır.”",
+ "hadithSource": "(Müslim, \"İmâre\", 157)",
+ "pray": "\"Yâ Rabbe’l-Âlemin! Dünyanın her neresinde olursa olsun ezilen, üzülen, horlanan,  işkence gören; açlık, \nkıtlık ve sefalet çeken mazlumlara, biçarelere imdat eyle, himmetini, yardımını üzerlerinden esirgeme!\"",
  "praySource": "",
  "source": "T.C. Diyanet İşleri Başkanlığı",
  "translations": {
   "de": {
-   "verse": "(Dies ist) ein gesegnetes Buch, das Wir zu dir hinabgesandt haben, damit sie über seine Zeichen nachsinnen und damit diejenigen bedenken, die Verstand besitzen.",
+   "verse": "Sag: Es ist eine gewaltige Kunde, von der ihr euch abwendet.",
    "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
   },
   "en": {
-   "verse": "(This is) a Book (the Quran) which We have sent down to you, full of blessings that they may ponder over its Verses, and that men of understanding may remember.",
+   "verse": "Say: \"That (this Quran) is a great news, \"From which you turn away!",
    "verseCredit": "Hilali & Khan, King Fahd Complex"
   },
   "ar": {
-   "verse": "كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ مُبَٰرَكٌۭ لِّيَدَّبَّرُوٓا۟ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+   "verse": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ أَنتُمْ عَنْهُ مُعْرِضُونَ",
    "verseCredit": "Mushaf (Uthmani)"
   }
  }
