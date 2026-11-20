@@ -1,24 +1,24 @@
 {
- "date": "2026-11-19",
- "dayOfYear": 323,
- "verse": "“(Ey Resûlüm!) de ki: “Bu Kur’an, muazzam bir mesajdır, ama siz ondan yüz çeviriyorsunuz.” ",
- "verseSource": "(Sâd, 38/67-68)",
- "hadith": "“Kim içtenlikle Allah’tan şehit olmayı dilerse yatağı üzerinde bile ölse Allah onu şehitlerin makamlarına ulaştırır.”",
- "hadithSource": "(Müslim, \"İmâre\", 157)",
- "pray": "\"Yâ Rabbe’l-Âlemin! Dünyanın her neresinde olursa olsun ezilen, üzülen, horlanan,  işkence gören; açlık, \nkıtlık ve sefalet çeken mazlumlara, biçarelere imdat eyle, himmetini, yardımını üzerlerinden esirgeme!\"",
- "praySource": "",
+ "date": "2026-11-20",
+ "dayOfYear": 324,
+ "verse": "\"Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir.\"",
+ "verseSource": "(Saff, 61/2-3)",
+ "hadith": "“Kim ki üç tane kız çocuğu yetiştirir, güzel terbiye eder, evlendirir ve onlara iyilikte bulunursa, o kişi için cennet vardır.\"",
+ "hadithSource": "(Ebu Davud, \"Edeb\", 120, 121)",
+ "pray": "\"Yâ Rabbî! Bizim hâlimize bakarak muâmele etme. Kendi ikrâm ve ihsânına göre bize muâmele eyle.\"",
+ "praySource": "(Mevlana)",
  "source": "T.C. Diyanet İşleri Başkanlığı",
  "translations": {
   "de": {
-   "verse": "Sag: Es ist eine gewaltige Kunde, von der ihr euch abwendet.",
+   "verse": "O die ihr glaubt, warum sagt ihr, was ihr nicht tut? Welch schwerwiegende Abscheu erregt es bei Allah, daß ihr sagt, was ihr nicht tut.",
    "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
   },
   "en": {
-   "verse": "Say: \"That (this Quran) is a great news, \"From which you turn away!",
+   "verse": "O you who believe! Why do you say that which you do not do? Most hateful it is with Allah that you say that which you do not do.",
    "verseCredit": "Hilali & Khan, King Fahd Complex"
   },
   "ar": {
-   "verse": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ أَنتُمْ عَنْهُ مُعْرِضُونَ",
+   "verse": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
    "verseCredit": "Mushaf (Uthmani)"
   }
  }
