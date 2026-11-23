@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-23",
+ "dayOfYear": 327,
+ "verse": "\"Sizin için belirlenen bir gün vardır ki, ondan ne bir saat geri kalabilirsiniz, ne de ileri geçebilirsiniz.\"",
+ "verseSource": "(Seb'e, 34/30)",
+ "hadith": "“Kimin üzerinde din kardeşinin ırzı, namusu veya malıyla ilgili bir hak varsa, altın ve gümüşün geçmediği hesap günü gelmeden helalleşsin. \nAksi takdirde, yaptığı haksızlık ölçüsünde, iyi amellerinden alınıp hak sahibine verilir. İyiliği yoksa hak sahibin günahından alınıp haksızlık eden kimseye yüklenir.”",
+ "hadithSource": "( Buharî, \"Mezalim\",210; \"Rikak\",48)",
+ "pray": "\"Yavrularımıza, hayırlı kısmetler, başarı, huzur, bereket ve sağlık içinde bir ömür lütfeyle! Onları her türlü kötülüklerden ve zararlı alışkanlıklardan muhafaza eyle Allah’ım!",
+ "praySource": "",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Sag: Für euch ist eine Verabredung auf einen Tag (festgelegt), von dem ihr (euer Schicksal) weder um eine Stunde hinausschieben noch vorverlegen könnt.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "Say (O Muhammad SAW): \"The appointment to you is for a Day, which you cannot put back for an hour (or a moment) nor put forward.\"",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "قُل لَّكُم مِّيعَادُ يَوْمٍۢ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةًۭ وَلَا تَسْتَقْدِمُونَ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
