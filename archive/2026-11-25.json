@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-25",
+ "dayOfYear": 329,
+ "verse": "Hiç Mü'min (İman etmiş kimse) fasık (günaha batmış kimse) gibi olur mu? Bunlar elbette eşit değildirler.\"",
+ "verseSource": "(Secde, 32/18)",
+ "hadith": "“Kişinin kalbi doğru olmadıkça imanı doğru olmaz. Dili doğru olmadıkça da kalbi doğru olmaz. Kötülüğünden komşusu emin olmadıkça kişi cennete giremez.” ",
+ "hadithSource": "(Ahmed b. Hanbel, Müsned, III /198)",
+ "pray": "\"Zalimlerin baskı ve zulmünden, hâinlerin hile ve hıyanetinden, kıskançların hasedinden bizleri muhafaza eyle Allah’ım!\"",
+ "praySource": "",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Ist denn jemand, der gläubig ist, wie jemand, der ein Frevler ist? Sie sind nicht gleich(zustellen).",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "Is then he who is a believer like him who is Fasiq (disbeliever and disobedient to Allah)? Not equal are they.",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "أَفَمَن كَانَ مُؤْمِنًۭا كَمَن كَانَ فَاسِقًۭا ۚ لَّا يَسْتَوُۥنَ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
