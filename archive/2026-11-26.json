@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-26",
+ "dayOfYear": 330,
+ "verse": "\"İman edip salih amel işleyenlere gelince, onlar için, yapmakta olduklarına karşılık bir mükafat olarak Me'vâ cennetleri vardır. \"",
+ "verseSource": "(Secde, 32/19)",
+ "hadith": "“Kişiyi ölürken üç şey uğurlar: Sevdikleri, malı ve yaptıkları. İlk ikisi geri döner ve o yaptıkları ile baş başa kalır.” ",
+ "hadithSource": "(Buharî, “Rikak”, 42; Müslim, “Zühd”, 5)",
+ "pray": "“…Allahım! Nefsime takvasını (günahlardan sakınma duygusu) ver ve onu (her türlü günahtan) temizle, Sen temizleyenlerin en hayırlısısın. Onun koruyucusu ve efendisi de sensin...”",
+ "praySource": "(Müslim, \"Dua\", 73)",
+ "source": "T.C. Diyanet İşleri Başkanlığı",
+ "translations": {
+  "de": {
+   "verse": "Was nun diejenigen angeht, die glauben und rechtschaffene Werke tun, so wird es für sie die Gärten der Zuflucht zur gastlichen Aufnahme geben für das, was sie zu tun pflegten.",
+   "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
+  },
+  "en": {
+   "verse": "As for those who believe (in the Oneness of Allah Islamic Monotheism) and do righteous good deeds, for them are Gardens (Paradise) as an entertainment, for what they used to do.",
+   "verseCredit": "Hilali & Khan, King Fahd Complex"
+  },
+  "ar": {
+   "verse": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ",
+   "verseCredit": "Mushaf (Uthmani)"
+  }
+ }
+}
