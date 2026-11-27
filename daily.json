@@ -1,24 +1,24 @@
 {
- "date": "2026-11-26",
- "dayOfYear": 330,
- "verse": "\"İman edip salih amel işleyenlere gelince, onlar için, yapmakta olduklarına karşılık bir mükafat olarak Me'vâ cennetleri vardır. \"",
- "verseSource": "(Secde, 32/19)",
- "hadith": "“Kişiyi ölürken üç şey uğurlar: Sevdikleri, malı ve yaptıkları. İlk ikisi geri döner ve o yaptıkları ile baş başa kalır.” ",
- "hadithSource": "(Buharî, “Rikak”, 42; Müslim, “Zühd”, 5)",
- "pray": "“…Allahım! Nefsime takvasını (günahlardan sakınma duygusu) ver ve onu (her türlü günahtan) temizle, Sen temizleyenlerin en hayırlısısın. Onun koruyucusu ve efendisi de sensin...”",
- "praySource": "(Müslim, \"Dua\", 73)",
+ "date": "2026-11-27",
+ "dayOfYear": 331,
+ "verse": "\"Ölçüyü tam yapın. Eksik verenlerden olmayın.\" \"Doğru terazi ile tartın.\" \"İnsanların mallarını ve haklarını eksiltmeyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.\" ",
+ "verseSource": "(Şu'arâ, 26/181-183)",
+ "hadith": "“Kul, bir günah işlediği zaman kalbinde siyah bir leke oluşur. Günahı bırakıp tövbe ederse kalbi arınır” ",
+ "hadithSource": "(Müslim, “İman”, 231)",
+ "pray": "\"Bir vücudun uzuvları gibi olabilmeyi, kardeşlerimizin acısını da sevincini de yüreğimizde hissedebilmeyi nasip eyle Allah’ım.\"",
+ "praySource": "",
  "source": "T.C. Diyanet İşleri Başkanlığı",
  "translations": {
   "de": {
-   "verse": "Was nun diejenigen angeht, die glauben und rechtschaffene Werke tun, so wird es für sie die Gärten der Zuflucht zur gastlichen Aufnahme geben für das, was sie zu tun pflegten.",
+   "verse": "Gebt volles Maß und gehört nicht zu denjenigen, die (anderen) Verlust verursachen. Und wägt mit der richtigen Waage. Und schmälert den Menschen nicht ihre Sachen und richtet auf der Erde nicht unheilstiftend Verderben an.",
    "verseCredit": "Bubenheim & Elyas, König-Fahd-Komplex"
   },
   "en": {
-   "verse": "As for those who believe (in the Oneness of Allah Islamic Monotheism) and do righteous good deeds, for them are Gardens (Paradise) as an entertainment, for what they used to do.",
+   "verse": "\"Give full measure, and cause no loss (to others). \"And weigh with the true and straight balance. \"And defraud not people by reducing their things, nor do evil, making corruption and mischief in the land.",
    "verseCredit": "Hilali & Khan, King Fahd Complex"
   },
   "ar": {
-   "verse": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ جَنَّٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ",
+   "verse": "۞ أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
    "verseCredit": "Mushaf (Uthmani)"
   }
  }
